@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>assets/check-solid.svg</file>
+        <file>assets/circle-check-solid.svg</file>
+        <file>assets/cross_large.png</file>
+        <file>assets/zero_large.png</file>
+        <file>assets/title_ico.png</file>
+    </qresource>
+</RCC>
